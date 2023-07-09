@@ -1,5 +1,5 @@
 # Privacy-policy-K53
-#Introduction
+# Introduction
 
 This privacy policy (the "Policy") describes how KFiftyThree collects, uses, and shares your personal information (the "Personal Information") when you use the App.
 
